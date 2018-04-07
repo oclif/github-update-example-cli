@@ -45,6 +45,11 @@
   "oclif": {
     "commands": "./lib/commands",
     "bin": "github-cli",
+    "targets": [
+      "darwin-x64",
+      "linux-x64",
+      "win32-x64"
+    ],
     "plugins": [
       "@oclif/plugin-help"
     ]
