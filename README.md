@@ -1,6 +1,8 @@
 @oclif/github-update-example-cli
 =================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/oclif/github-update-example-cli.svg)](https://greenkeeper.io/)
+
 example of using @oclif/plugin-update with github releases
 
 [![Version](https://img.shields.io/npm/v/@oclif/github-update-example-cli.svg)](https://npmjs.org/package/@oclif/github-update-example-cli)
